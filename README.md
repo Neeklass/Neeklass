@@ -12,10 +12,3 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<p align="left">I'm Niklas from Schleswig-Holstein, Germany.<br><br>- 🔭 I’m working as a Software Developer.<br></p>
-
-###
