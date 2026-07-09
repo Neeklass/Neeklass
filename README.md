@@ -9,8 +9,4 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=neeklass&icon=2&color=0)](https://visitcount.itsvg.in)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niklasdittmann/)
